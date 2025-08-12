@@ -10,7 +10,7 @@ Over the past few years, I’ve worked on real client projects, helped organize 
 Feel free to check out some of my projects below !!
 
 ## 🌟 Featured Projects
-- [🧥 Layered - HTML/CSS/JavaScript](https://github.com/tonlien](https://github.com/EHB-MCT/web2-course-project-front-end-SophiaRahmoun) – 
+- [🧥 Layered - HTML/CSS/JavaScript](https://github.com/EHB-MCT/web2-course-project-front-end-SophiaRahmoun) – 
 Web app to organize and manage your wardrobe online, focusing on clean UI and sustainable lifestyle.
 - [🍽 What’s on the Menu – Laravel / PHP](https://github.com/EHB-MCT/back-end-what-s-on-the-menu-SophiaRahmoun) – Full-stack app to manage school menus and collect meal preferences from students, with admin tools for staff.
 - [🐺 Er Was Eens – React / Framer Motion](https://github.com/EHB-MCT/cp-frontend-SophiaRahmoun) – Interactive one-page fairytale with scroll-based animation, sound, and custom UI transitions.
